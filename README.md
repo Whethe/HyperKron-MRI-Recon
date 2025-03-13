@@ -42,19 +42,26 @@
 
 ### 📉 Validation Loss Comparison (Limited Data)
 
-<div align="center">
-  <img src="temp/loss_comparison_10_and_50.png" alt="Loss comparison on 10% and 50%" width="75%" />
-  <br />
-  <b>Kronecker U-Net generalizes better than standard U-Net under limited data.</b>
-</div>
+<p align="center">
+  <img src="assets/loss_comparison.png" alt="Loss comparison on 10% and 50%" width="85%">
+</p>
+
+<p align="center">
+  <b>Fig. 1:</b> Kronecker U-Net generalizes better than standard U-Net under limited data.  
+  Left: 10% dataset · Right: 50% dataset.
+</p>
+
+---
 
 ### 🖼️ Reconstruction Comparison
 
-<div align="center">
-  <img src="temp/crop_miccai_imgs_fig2.png" alt="Error map comparison" width="80%" />
-  <br />
-  <b>Visualization of reconstructed images under 16× acceleration.</b>
-</div>
+<p align="center">
+  <img src="assets/error_map_comparison.png" alt="Error map comparison" width="95%">
+</p>
+
+<p align="center">
+  <b>Fig. 2:</b> Reconstruction comparison under 16× acceleration. Error maps demonstrate Kronecker models maintain reconstruction fidelity with fewer parameters.
+</p>
 
 ---
 
