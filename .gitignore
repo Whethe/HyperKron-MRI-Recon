@@ -1,0 +1,63 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+*.env
+*.conda
+*.sh
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch
+*.pt
+*.pth
+*.ckpt
+
+# Experiment logs
+logs/
+runs/
+tensorboard/
+*.log
+
+# Data
+data/
+datasets/
+*.h5
+*.nii
+*.nii.gz
+*.npz
+*.npy
+
+# Models and outputs
+outputs/
+checkpoints/
+results/
+*.onnx
+
+# VSCode
+.vscode/
+.settings/
+
+# Mac/Linux/Windows hidden files
+.DS_Store
+Thumbs.db
+
+# PyCharm
+.idea/
+
+# PDF figures
+*.pdf
+
+# Temporary files
+*.bak
+*.tmp
