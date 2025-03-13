@@ -43,7 +43,7 @@
 ### 📉 Validation Loss Comparison (Limited Data)
 
 <p align="center">
-  <img src="assets/loss_comparison.png" alt="Loss comparison on 10% and 50%" width="85%">
+  <img src="temp/loss_comparison.png" alt="Loss comparison on 10% and 50%" width="85%">
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 ### 🖼️ Reconstruction Comparison
 
 <p align="center">
-  <img src="assets/error_map_comparison.png" alt="Error map comparison" width="95%">
+  <img src="temp/error_map_comparison.png" alt="Error map comparison" width="95%">
 </p>
 
 <p align="center">
