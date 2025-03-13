@@ -56,7 +56,7 @@
 ### 🖼️ Reconstruction Comparison
 
 <p align="center">
-  <img src="temp/crop_miccai_imgs_fig2.png" alt="Error map comparison" width="95%">
+  <img src="temp/crop_miccai_imgs_fig2.png" alt="Error map comparison" width="3544">
 </p>
 
 <p align="center">
