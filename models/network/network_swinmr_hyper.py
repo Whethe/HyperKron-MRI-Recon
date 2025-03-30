@@ -3,6 +3,8 @@
 Network
 SwinMR Hyper m.1.3
 
+Author: Haosen Zhang
+
 Thanks:
 https://github.com/JingyunLiang/SwinIR
 https://github.com/microsoft/Swin-Transformer
