@@ -1,3 +1,12 @@
+"""
+# -----------------------------------------
+Network
+Kronecker Module
+
+Thanks:
+https://github.com/eleGAN23/HyperNets/tree/main
+# -----------------------------------------
+"""
 import math
 
 import torch
