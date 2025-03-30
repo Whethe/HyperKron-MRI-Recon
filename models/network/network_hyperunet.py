@@ -1,3 +1,14 @@
+"""
+# -----------------------------------------
+Network
+Hyperunet m.1.3
+
+Author: Haosen Zhang
+
+Thanks:
+https://github.com/eleGAN23/HyperNets/tree/main
+# -----------------------------------------
+"""
 import math
 
 import torch
